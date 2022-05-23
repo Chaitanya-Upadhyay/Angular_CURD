@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "tfwfoyiosh",
+      "category": "Vegetables",
+      "date": "2022-05-13T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 53,
+      "Comment": "ljkn",
+      "id": 2
+    },
+    {
+      "productName": "Apple Phone",
+      "category": "Goods",
+      "date": "2022-05-17T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 4564,
+      "Comment": "knj",
+      "id": 3
+    },
+    {
+      "productName": "Apple Watch",
+      "category": "Electronics",
+      "date": "2022-05-18T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 789,
+      "Comment": "Costly",
+      "id": 6
+    },
+    {
+      "productName": "hglif",
+      "category": "Fruits",
+      "date": "2022-05-10T18:30:00.000Z",
+      "freshness": "Refburished",
+      "price": 15,
+      "Comment": "hiiiiiiiiiii",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
